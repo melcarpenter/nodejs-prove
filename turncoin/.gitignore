@@ -1,0 +1,8 @@
+dist/
+node_modules
+.npm
+.vscode/
+logs
+.env
+.idea
+scripts/data/*
